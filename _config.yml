@@ -16,11 +16,11 @@ minimal_mistakes_skin    : sunrise # "default", "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : de
-title                    : Oliver Hoffmann
+title                    : DI Oliver Hoffmann
 title_separator          : " "
 subtitle                 : " "
-name                     : "Oliver Hoffmann"
-description              : "Oliver Hoffmann"
+name                     : "DI Oliver Hoffmann"
+description              : "DI Oliver Hoffmann"
 url                      : https://oliver.at
 baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oliver Hoffmann"
+  name             : "DI Oliver Hoffmann"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "oliver.at"
-  location         : "Wien"
+  bio              : "human & artificial intelligence"
+  location         : ""
   email            :
   links:
     - label: "Email"
