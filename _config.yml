@@ -16,16 +16,16 @@ minimal_mistakes_skin    : sunrise # "default", "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : de
-title                    : Demokratie für Österreich
+title                    : Oliver Hoffmann
 title_separator          : " "
 subtitle                 : " "
-name                     : "Demokratie für Österreich"
-description              : "Demokratie für Österreich"
-url                      : https://demokratie.at
+name                     : "Oliver Hoffmann"
+description              : "Oliver Hoffmann"
+url                      : https://oliver.at
 baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/2024-10-05-DEMO.svg
-logo                     : /assets/images/2024-10-05-DEMO.svg
+teaser                   : /assets/images/2024-12-15-Meduniburgenland-Leonardo-Vetruvian-Man-Sonne.svg
+logo                     : /assets/images/2024-12-15-Meduniburgenland-Leonardo-Vetruvian-Man-Sonne.svg
 masthead_title           : " "
 # breadcrumbs            : false
 words_per_minute         : 200
@@ -137,9 +137,9 @@ footer:
     - # label: "Twitter"
       # icon: https://demokratie.at/assets/images/2024-07-09-X-Logo.svg
       # url: https://twitter.com/olvrhffmnn
-    - label: "Substack"
-      icon: https://demokratie.at/assets/images/2024-10-10-substack.svg
-      url: https://olvrhffmnn.substack.com
+    - # label: "Substack"
+      # icon: https://demokratie.at/assets/images/2024-10-10-substack.svg
+      # url: https://olvrhffmnn.substack.com
     - # label: "Telegram"
       # icon: https://telegram.org/img/website_icon.svg
       # url: https://t.me/olvrhffmnn
